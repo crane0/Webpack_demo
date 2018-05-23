@@ -100,7 +100,7 @@ module.exports = merge(baseConfig,{  // 配置对象
         // 压缩JS
         // new webpack.optimize.UglifyJsPlugin(),
         new webpack.optimize.UglifyJsPlugin({
-          sourceMap:true    //可选参数，实现sourceMap
+          sourceMap:true    //可选参数，实现sourceMap，要和下面的 devtool: 'source-map'一起使用，才有效！
         }),
 
         /*
