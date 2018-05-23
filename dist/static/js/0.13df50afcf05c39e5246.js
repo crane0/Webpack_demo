@@ -1,0 +1,2 @@
+webpackJsonp([0],{fbD0:function(n,o,t){"use strict";function i(){return window.confirm("你确定要来尚硅谷学习吗?")}function u(){window.location="http://www.atguigu.com"}Object.defineProperty(o,"__esModule",{value:!0}),o.studyConfirm=i,o.goAtguigu=u}});
+//# sourceMappingURL=0.13df50afcf05c39e5246.js.map
